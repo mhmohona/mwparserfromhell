@@ -23,6 +23,10 @@ The easiest way to install the parser is through the `Python Package Index`_;
 you can install the latest release with ``pip install mwparserfromhell``
 (`get pip`_). Make sure your pip is up-to-date first, especially on Windows.
 
+For those who prefer to use `conda`, the parser can also be accessed through the `conda-forge` channel. 
+To easily install it using conda, simply run the command ``conda install -c conda-forge mwparserfromhell``. 
+This option is especially beneficial for those who manage their Python environments with conda.
+
 Alternatively, get the latest development version::
 
     git clone https://github.com/earwig/mwparserfromhell.git
